@@ -15,7 +15,10 @@ A collection of Federated Prompting related works.
 [[code](https://github.com/chunmeifeng/FedPR)]
 
 * Federated Adaptive Prompt Tuning for Multi-domain Collaborative Learning (***ArXiv, 2023***)
-[[paper](https://arxiv.org/pdf/2211.07864.pdf)] 
+[[paper](https://arxiv.org/pdf/2211.07864.pdf)]
+
+* FEDPROMPT: COMMUNICATION-EFFICIENT AND PRIVACY-PRESERVING PROMPT TUNING IN FEDERATED LEARNING (***ICASSP, 2023***)
+[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10095356&casa_token=Y7dQmtqgWEcAAAAA:HB6zqu6kxTVl8yPkDfFs4HXK44_MBZQH24TcgyqGUt3Tw5uW9LlKO5_whaZZq7rMdTwlyw6PGDsEpM4)] 
 
 ## Survey
 
