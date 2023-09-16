@@ -3,7 +3,7 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
 </p>
 
-A collection of Federated Prompting related works.
+A collection of Federated Prompting-related works.
 
 ## Paper
 * PROMPTFL: Let Federated Participants Cooperatively Learn Prompts Instead of Models — Federated Learning in Age of Foundation Model (***IEEE Transactions on Mobile Computing, 2023***)
@@ -26,6 +26,9 @@ A collection of Federated Prompting related works.
 * FEDERATED GENERATIVE LEARNING WITH FOUNDATION MODELS (***ArXiv, 2023***)
 [[paper](https://arxiv.org/pdf/2306.09970.pdf)]
 [[code](https://github.com/zj-jayzhang/Federated_Generative_Learning)]
+
+* Fed-CPrompt: Contrastive Prompt for Rehearsal-Free Federated Continual Learning (***FL-ICML***)
+* [[paper](https://openreview.net/forum?id=xEyopZpViw)]
 
 ## Survey
 
